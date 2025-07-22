@@ -28,8 +28,7 @@ Full-stack web developer specializing in modern JavaScript frameworks with 2+ ye
 
 ### Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-%23FF6B00.svg?style=for-the-badge&logo=agile&logoColor=white)
+
 
 ## 💼 Professional Experience
 
@@ -60,11 +59,11 @@ _Mar 2022 - May 2023_
 ## 📚 Education
 
 **Bachelor in Computer Science**  
-Tribhuvan University, Kathmandu (2021-2025)
+Westcliff University, California, USA (2021-2025)
 
 ## 📫 Let's Connect
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 📧 Email: [your.professional.email@example.com](mailto:your.professional.email@example.com)  
-🔗 Portfolio: [aashishnepal.com.np](https://www.aashish-nepal.com.np/)
+🔗 Portfolio: 
